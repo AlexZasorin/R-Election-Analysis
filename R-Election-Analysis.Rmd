@@ -1,7 +1,7 @@
 ---
 title: "US 2020 Election Tweet Sentiment Analysis"
 author: "Aleksey Zasorin"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
